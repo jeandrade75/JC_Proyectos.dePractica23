@@ -1,0 +1,20 @@
+{
+  "name": "nahual",
+  "version": "1.0.0",
+  "description": "e2e framework testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "testing",
+    "cypress"
+  ],
+  "author": "andrade jean",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
